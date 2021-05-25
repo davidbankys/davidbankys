@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidbankys
-- 👀 I’m interested in web development
+- 👀 I’m interested in Front end web development
 - 🌱 I’m currently learning front end web development
-- 💞️ I’m looking to collaborate on any web projects
+- 💞️ I’m looking to collaborate on any web projects that can help me improve my skills and experience.
 - 📫 How to reach me :david.bankole14@gmail.com
 
 <!---
